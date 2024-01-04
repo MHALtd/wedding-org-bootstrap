@@ -1,0 +1,17 @@
+body {
+  height: 3500px;
+}
+
+.wedding-tittle-font-head {
+  font-family: "Alex Brush", cursive;
+  font-size: 30px;
+}
+
+.wedding-tittle-font {
+  font-family: "Alex Brush", cursive;
+  font-size: 40px;
+}
+
+.navbar1-col {
+  background-color: gold;
+}
